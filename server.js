@@ -7,5 +7,5 @@ app.get('/', (req,res)=>{
 });
 
 var server= app.listen(process.env.PORT || 3000, ()=>{
-	console.log('New local index for Bragi Tools is ready at port 3000');
+	console.log('New local server for Bragi Tools is ready at port 3000');
 });
