@@ -2,7 +2,6 @@ var express = require("express");
 var app = express();
 
 app.get('/', (req,res)=>{
-	Logger.debug("Oscar");
 	res.send('<h1 align="center">TransferMed</h1>');
 });
 
