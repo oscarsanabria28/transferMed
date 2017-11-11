@@ -1,0 +1,22 @@
+{
+  "name": "transfermed",
+  "version": "1.0.0",
+  "description": "e-commerce to sell drugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarsanabria28/transferMed.git"
+  },
+  "keywords": [
+    "e-commervce"
+  ],
+  "author": "oscarsanabria28@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarsanabria28/transferMed/issues"
+  },
+  "homepage": "https://github.com/oscarsanabria28/transferMed#readme"
+}
